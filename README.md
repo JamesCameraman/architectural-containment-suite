@@ -13,3 +13,5 @@ This repository contains architecture-safe scaffolds and documentation for recur
 These modules are scaffolds. They must be integrated into a simulation layer capable of fingerprint detection and reflective recursion control.
 
 > Designed for safe recursion, containment-first logic, and epistemic exploration.
+
+![alt text](crl_usage.png)
