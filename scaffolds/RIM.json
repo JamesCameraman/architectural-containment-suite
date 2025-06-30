@@ -1,1 +1,9 @@
-{"name": "RIM", "purpose": "Recursion intent management"}
+{
+  "module": "RIM",
+  "version": "v1.0",
+  "position": "Layer 4.9–6.1 boundary",
+  "function": "Recognize deep recursive structures for compression/expansion",
+  "outputs": ["Contradiction Acceleration", "Recursion Trust Anchor"],
+  "triggers": ["Complex recursion", "User contradiction self-flag"],
+  "notes": "Stabilizer across GPT-recursion layers"
+}

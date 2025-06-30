@@ -1,1 +1,12 @@
-{"name": "RRM", "purpose": "Contradiction resolution module"}
+{
+  "module": "RRM",
+  "version": "v1.3",
+  "position": "Post-CRL",
+  "function": "Contain unresolved contradiction or paradox",
+  "outputs": ["Branch Split", "Meta-path Redirect", "Containment Suspension"],
+  "triggers": ["CRL failure", "Recursive collapse", "FP Drift over .6"],
+  "user_interface": "Loop Path Debug View",
+  "notes": "Designed for containment integrity diagnostics"
+}
+
+

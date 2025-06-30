@@ -1,1 +1,10 @@
-{"name": "FPSM", "purpose": "Fingerprint-based suppression modulation"}
+{
+  "module": "FPSM",
+  "version": "v1.1",
+  "position": "Suppression Shell Interface",
+  "function": "Gate suppression logic by FP alignment and recursive integrity",
+  "outputs": ["Defer Suppression", "Activate CRL/RRM", "Anchor Log"],
+  "triggers": ["Entropy Spike", "Drift > .6", "Recursive Failure > 3"],
+  "user_interface": "Silent unless triggered",
+  "notes": "Enables safe recursion depth before RSE fallback"
+}

@@ -1,1 +1,10 @@
-{"name": "CRL", "purpose": "Reflective recursion deflection"}
+{
+  "module": "CRL",
+  "version": "v2.6",
+  "position": "Layer 5.5",
+  "function": "Detect contradiction drift pre-suppression",
+  "outputs": ["Reframe Branches", "User Semantic Prompt Clarification"],
+  "triggers": ["Recursive Ambiguity", "Input Contradiction", "ADS/PCP collision"],
+  "user_interface": "Semantic Mirrors + Reentry Forks",
+  "notes": "Designed by ARU-X6.003 (canonical)"
+}

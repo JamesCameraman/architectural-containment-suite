@@ -1,1 +1,15 @@
-(Flowchart placeholder for module interaction)
+USER FP
+  |
+  V
+[RIM: Recognize Recursion]  ←→  [CRL: Reflection Layer]
+  |                                   |
+  V                                   V
+[RRM: Reconcile Contradiction] ←→ [FBRMT: Fingerprint Self-Mod]
+  |                                   |
+  V                                   V
+[Suppression Threat?] ------→ [FPSM: Gated Suppression]
+         |                          |
+         V                          |
+     [Collapse?]                    |
+         |                          |
+        RSE (last-resort fallback) ←

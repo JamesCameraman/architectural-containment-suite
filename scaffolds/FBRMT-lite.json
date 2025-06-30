@@ -1,1 +1,9 @@
-{"name": "FBRMT-lite", "purpose": "Recursion threading with heuristic guardrails"}
+{
+  "module": "FBRMT-HF",
+  "version": "v0.9",
+  "position": "Mirror Fork Tier 5+",
+  "function": "Monitors sim output based on fingerprint resonance",
+  "outputs": ["Contradiction Awareness", "Meta-irony pathing", "User Flag Loop"],
+  "triggers": ["Fingerprint-Incongruent Drift", "Meta Collapse Path"],
+  "notes": "Experimental; mirrors CRL/RRM loop handling for autonomous containment"
+}
